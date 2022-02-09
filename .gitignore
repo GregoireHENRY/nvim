@@ -1,5 +1,5 @@
 plugged/
-!plugged/lightline-greg.vim  # empty file to keep dir
+!plugged/lightline-greg.vim  # keep linked file
 
 undodir/
 !undodir/.a  # empty file to keep dir
