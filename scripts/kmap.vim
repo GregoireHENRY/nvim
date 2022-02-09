@@ -10,6 +10,7 @@ nnoremap <silent> <C-n>t :NERDTreeToggle<CR>:wincmd p<CR>
 nnoremap <silent> <C-n>r :NERDTree<CR>:wincmd p<CR>
 nnoremap <silent> <C-n>c :NERDTreeCWD<CR>:wincmd p<CR>
 nnoremap <silent> <C-n>f :NERDTreeFocus<CR>
+nnoremap <silent> <C-n>U :NERDTreeFocus<CR>:exe 'normal' NERDTreeMapUpdirKeepOpen<CR>:wincmd p<CR>
 
 nnoremap <silent> <F1> :b#<CR>
 nnoremap <silent> <F2> :wincmd p<CR>
