@@ -1,0 +1,1 @@
+/home/greg/.config/nvim/plugged/lightline.vim/autoload/lightline/colorscheme/greg.vim
